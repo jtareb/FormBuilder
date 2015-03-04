@@ -23,7 +23,7 @@ $(',el').html(newHTML.join("");
 
 
 
-}
+
 		
 
 
@@ -31,7 +31,7 @@ $(',el').html(newHTML.join("");
 
 
 
-}
+
 
 	
 
